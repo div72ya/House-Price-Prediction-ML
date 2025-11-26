@@ -63,6 +63,7 @@ Train–Test Split: `80% train / 20% test`
 | File | Description |
 |------|------------|
 | `supervised_learning_project.ipynb` | Notebook with full ML workflow |
+| `property_price_data (1).csv` | Dataset Used |
 | `README.md` | Project documentation |
 
 ---
